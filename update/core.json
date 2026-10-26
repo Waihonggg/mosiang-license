@@ -1,6 +1,6 @@
 {
- "ver": 4,
- "sig": "MEUCIQDF1PxlZGLR6qmBy5iMzKu6Edzt6po7tOaZYakeXfYEcAIgePg0GAgGAEhX+lqzaBZz1x3w6g3y6r/nLEq1HqmVtHY=",
- "note": "encrypted update",
- "date": "2026-10-25T17:04"
+ "ver": 5,
+ "sig": "MEUCIQC+/u34YfhFcZz6dUqKuGn/DcDsZM4mpbWsFMNitMxtlwIgSmUXDOsVZomyLsJJjgjHGmuwToya8HtuhqYAqtHFLxU=",
+ "note": "关掉探查点等提示框；中途出错重来不再用传送卷",
+ "date": "2026-10-26T01:12"
 }
