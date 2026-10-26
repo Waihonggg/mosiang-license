@@ -1,6 +1,6 @@
 {
- "ver": 6,
- "sig": "MEQCICj9Js6QBrxWcZLiaQc7dr2t48M1oIDW8a7/Z8qHIZuIAiAz4PmMUUK/FD4sbV1bgzpDMXvCiUyOc3WjUGhYXfRMqw==",
- "note": "地图没打开先关提示；下拉选不上也不出错重来（不再一直耗传送卷）",
- "date": "2026-10-26T01:22"
+ "ver": 7,
+ "sig": "MEQCICNCRO29CRpob/yUfy/ZOinoYM19YLkSSCSnmzMQCC1GAiAsgYFIGsBIgISsucv22awrMInoYnwUtcg77Y8lMXcp2w==",
+ "note": "采集键字是暗红色时也认得出（红矿-3）",
+ "date": "2026-10-26T05:25"
 }
