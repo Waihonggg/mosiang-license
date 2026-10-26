@@ -1,6 +1,6 @@
 {
- "ver": 7,
- "sig": "MEQCICNCRO29CRpob/yUfy/ZOinoYM19YLkSSCSnmzMQCC1GAiAsgYFIGsBIgISsucv22awrMInoYnwUtcg77Y8lMXcp2w==",
- "note": "采集键字是暗红色时也认得出（红矿-3）",
- "date": "2026-10-26T05:25"
+ "ver": 8,
+ "sig": "MEYCIQC58gkm2aaEKvedAerLdJdbI2AlOGAdXQOPH/VYy3QEJwIhAJwnx2ACYW7xFJHSecBS5Ol+MzyVIPhQIiqbV6bmuQsI",
+ "note": "存不了文件的手机改存App自己的文件夹（日志、采集图标）",
+ "date": "2026-10-26T05:28"
 }
