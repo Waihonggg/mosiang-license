@@ -1,6 +1,6 @@
 {
- "ver": 10,
- "sig": "MEYCIQCn9URKWfRNXfAzAIWEcCL3V0BB7hsC12KYpkZv3rn5yAIhANpnR2CuxtV7YvXxylN4/I4ACQpOHA/G2V1HLO/Mdeva",
- "note": "录完点位/恢复点位时弹窗显示点位，方便截图给卖家",
- "date": "2026-10-26T05:40"
+ "ver": 11,
+ "sig": "MEUCIBAG9aZbFj8CUs+40qJ5TWNzSavAJndJhQsOqUaDiEHGAiEAwOmyDmFpKXrNdci/nAvzoZhMnz+lGlL4ldse5Lb+3+A=",
+ "note": "修好：没开始采集就按「恢复全部点位」会报错",
+ "date": "2026-10-26T05:50"
 }
