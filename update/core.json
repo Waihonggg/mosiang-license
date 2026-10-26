@@ -1,6 +1,6 @@
 {
- "ver": 11,
- "sig": "MEUCIBAG9aZbFj8CUs+40qJ5TWNzSavAJndJhQsOqUaDiEHGAiEAwOmyDmFpKXrNdci/nAvzoZhMnz+lGlL4ldse5Lb+3+A=",
- "note": "修好：没开始采集就按「恢复全部点位」会报错",
- "date": "2026-10-26T05:50"
+ "ver": 12,
+ "sig": "MEYCIQDEy3GHC4AxzL7dSZvXnXOcsXplceZxQNbWR0WpbKpilwIhAKk96PNK1EQYtiCvVo5lk2rWC5z7C7281NJ5UscTnGBU",
+ "note": "火焰山赤铜矿换成新录的 3 颗点位",
+ "date": "2026-10-26T05:51"
 }
