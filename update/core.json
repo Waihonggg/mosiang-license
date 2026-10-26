@@ -1,6 +1,6 @@
 {
- "ver": 32,
- "sig": "MEUCIQCDgGgwW4b8/egwDMg3vLiRzgyRmm6DQvzJG9jMtfFkCgIgaoiJ4SNyXb9fVwZkOSolxApHV4O+7ZxQAA0xsP25ces=",
- "note": "新增7个列表；更新4个点位；走到点位才关地图；混合列表选材料按钮浮在游戏上",
- "date": "2026-10-26T15:03"
+ "ver": 33,
+ "sig": "MEQCIAIdgiMWmnzXVPCTsEipf/VHZ3uH+Aut7CmQzvDrAUR3AiB3vLY34pMOwmfQokAmlqCEfXecjO+mA70Ed8ohBD7O2A==",
+ "note": "龙门石窟入口在地图列表折两行也认得出",
+ "date": "2026-10-26T15:05"
 }
