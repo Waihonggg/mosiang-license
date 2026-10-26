@@ -1,6 +1,6 @@
 {
- "ver": 15,
- "sig": "MEUCIHs5QIAeKq1i2q4Zcz2FvJwVAkxLv9PKXwi83K6jS0fqAiEAqkmFUohOtoqacf/mq3pjeRzVkfcrAF+5/o78VWfW7WQ=",
- "note": "每小时Telegram报告拿了什么材料；角色阵亡立刻截图发Telegram",
- "date": "2026-10-26T06:48"
+ "ver": 16,
+ "sig": "MEYCIQDeQLDMxo3DJA0IikDOrcP5t5cwcSeIEObcpADSxvEhAgIhAPTUsIlROizpgk5fava4SPrzFg3AfxIGUA6NPfA8TpSX",
+ "note": "录点位时也自动关掉探查点等弹窗",
+ "date": "2026-10-26T06:52"
 }
