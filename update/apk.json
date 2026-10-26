@@ -1,6 +1,6 @@
 {
- "build": "v20",
- "ver": "1.0.5",
+ "build": "v22",
+ "ver": "1.0.6",
  "url": "https://github.com/Waihonggg/mosiang-license/releases/latest/download/mosiang-gather.apk",
- "note": "墨香采集助手 1.0.5：采集逻辑加密保护，支持在线更新"
+ "note": "1.0.6：中英文界面（右上角切换）；自动关掉探查点等提示框；不再一直耗传送卷"
 }
