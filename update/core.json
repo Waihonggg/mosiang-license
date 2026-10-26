@@ -1,6 +1,6 @@
 {
- "ver": 9,
- "sig": "MEUCIC3qkJVk1zkg5jc2m+xcfprpU1GiAyYHPP+Vl4gxAu43AiEAwB8Jmhf687hntYqf11g4boYYE+OQer4lJRFxbDRSD2E=",
- "note": "火焰山琵琶木点位顺序改成 3→2→1",
- "date": "2026-10-26T05:32"
+ "ver": 10,
+ "sig": "MEYCIQCn9URKWfRNXfAzAIWEcCL3V0BB7hsC12KYpkZv3rn5yAIhANpnR2CuxtV7YvXxylN4/I4ACQpOHA/G2V1HLO/Mdeva",
+ "note": "录完点位/恢复点位时弹窗显示点位，方便截图给卖家",
+ "date": "2026-10-26T05:40"
 }
