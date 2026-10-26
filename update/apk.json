@@ -1,6 +1,6 @@
 {
- "build": "v22",
- "ver": "1.0.6",
+ "build": "v23",
+ "ver": "1.0.7",
  "url": "https://github.com/Waihonggg/mosiang-license/releases/latest/download/mosiang-gather.apk",
- "note": "1.0.6：中英文界面（右上角切换）；自动关掉探查点等提示框；不再一直耗传送卷"
+ "note": "1.0.7：支持不绑设备码的激活码（第一台激活的手机锁定）；看得到运行日志"
 }
