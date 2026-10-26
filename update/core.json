@@ -1,6 +1,6 @@
 {
- "ver": 8,
- "sig": "MEYCIQC58gkm2aaEKvedAerLdJdbI2AlOGAdXQOPH/VYy3QEJwIhAJwnx2ACYW7xFJHSecBS5Ol+MzyVIPhQIiqbV6bmuQsI",
- "note": "存不了文件的手机改存App自己的文件夹（日志、采集图标）",
- "date": "2026-10-26T05:28"
+ "ver": 9,
+ "sig": "MEUCIC3qkJVk1zkg5jc2m+xcfprpU1GiAyYHPP+Vl4gxAu43AiEAwB8Jmhf687hntYqf11g4boYYE+OQer4lJRFxbDRSD2E=",
+ "note": "火焰山琵琶木点位顺序改成 3→2→1",
+ "date": "2026-10-26T05:32"
 }
