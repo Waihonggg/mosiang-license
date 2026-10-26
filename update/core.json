@@ -1,6 +1,6 @@
 {
- "ver": 14,
- "sig": "MEQCIEVpad63NQbEGdr/jlK86cRrIspPFuIqbvsMJFk8d+YeAiAX2tfytdk8/TON5lJoikY04jTHnoHnjvq5fa+pw2PPNQ==",
- "note": "采集键一出来马上点、只点一次",
- "date": "2026-10-26T06:27"
+ "ver": 15,
+ "sig": "MEUCIHs5QIAeKq1i2q4Zcz2FvJwVAkxLv9PKXwi83K6jS0fqAiEAqkmFUohOtoqacf/mq3pjeRzVkfcrAF+5/o78VWfW7WQ=",
+ "note": "每小时Telegram报告拿了什么材料；角色阵亡立刻截图发Telegram",
+ "date": "2026-10-26T06:48"
 }
