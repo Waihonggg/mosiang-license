@@ -1,6 +1,6 @@
 {
- "ver": 34,
- "sig": "MEUCICcu2VxDM3IZejmVQqJ6OA0hA0COHi3CislY6sZG+A/oAiEAjetDq2vHA+hvQZ4KQ/XELS7ssoP/l/08xcxM10PncEE=",
- "note": "地图名读不清时，列表点两次就当作已切换",
- "date": "2026-10-26T15:16"
+ "ver": 35,
+ "sig": "MEYCIQCXU2Egt4Orrw9zTsNR1Oo0+IaahZfCnrHOEnpvCRdGWgIhAPe8SSIOGcXJX9hPsKsl8jcpCaQlbgNSMN7XgVfkcNyz",
+ "note": "列表名后面标点位数（×N）",
+ "date": "2026-10-26T15:32"
 }
