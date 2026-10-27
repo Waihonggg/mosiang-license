@@ -1,6 +1,6 @@
 {
- "ver": 4,
- "sig": "MEUCIQCkxJXwWbpJYe519pWbFRmDoypInB4GEki1rWoFmEPeCAIgDhz5A48ElkITFLJtsVWBreocSEbXntLQd7fUYOFoNPk=",
- "note": "看中立刻买：购买/确定键一出现就点，不识别；金币少了多少=成交",
- "date": "2026-10-27T15:42"
+ "ver": 5,
+ "sig": "MEUCIEdc8LhWShAC4Mjl8ULVPRL4x2WIcGtNKp8eeoXafcxHAiEAz9cMVmFe98U2iqYLpi/IlebIRiaqwnYBfE3OKxZS/dk=",
+ "note": "修刷新卡住：第一格指纹改成一次取像素（#4 每轮 19 秒）",
+ "date": "2026-10-27T15:48"
 }
