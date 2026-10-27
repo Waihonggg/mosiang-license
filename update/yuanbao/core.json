@@ -1,6 +1,6 @@
 {
- "ver": 6,
- "sig": "MEYCIQC77AAoMWemNYJlEatxLyu+o3fHQNPLiKyR8VAj62T1fgIhAIHpTm+qUPAmQwcXtv2fpb45o25fN/n/fcRHdCYGrVET",
- "note": "看箭头/按钮颜色也改成一次取像素（每个点 8ms）；速度日志分段",
- "date": "2026-10-27T15:53"
+ "ver": 7,
+ "sig": "MEUCIQC/ymw/BGC0QNEl5+BWlQjSdYGROvr4pXrXG3Kl09WSGgIgR/pjpLwBCdHDkeAqhpyMAxLT3/LPvyagfl3dtsEXfvY=",
+ "note": "刷新更快：两下之间 40ms，等列表加载 120ms",
+ "date": "2026-10-27T16:00"
 }
