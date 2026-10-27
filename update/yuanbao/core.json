@@ -1,6 +1,6 @@
 {
- "ver": 2,
- "sig": "MEQCIAvB8NaFTcu5rarF0eFo+A5xLhraXeKN66A/DVWztJG2AiBROg5aZUSKSjhL4atE8/cNb/YMUuZg+jqB1UL95mYjJw==",
- "note": "刷新更快：每轮少截一次图，读不到不白刷新，显示每轮毫秒",
- "date": "2026-10-27T15:25"
+ "ver": 3,
+ "sig": "MEQCIFa7kGGzkHASCZMpcYYudrD3sQBWGnPkyNxIT3VDRYxgAiBtn1PyZ2fVQ29dAGwAKdhUVc8TIg+DP1HoMiOMvX5Xrw==",
+ "note": "买下更快更准：按钮颜色判断窗口开好再识别一次；最大数字=总价核对；购买成功提示/金币确认成交；第一格没变不重复识别",
+ "date": "2026-10-27T15:37"
 }
