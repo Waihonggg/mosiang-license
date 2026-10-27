@@ -1,6 +1,6 @@
 {
- "ver": 50,
- "sig": "MEUCIQDkleamvXgY4BWGlDDpwj7ZgdmR44Irv2CBZH1cpTg/CwIgfVyaoFu2Fy7uauAieR3jFonVrgU3aXZzArXKH6JxF/w=",
- "note": "下拉每项太密被读成一段时按行拆开；记下下拉读到的字",
- "date": "2026-10-27T09:55"
+ "ver": 51,
+ "sig": "MEYCIQDHMw/nEGqAorroeXs84hmc8rnSxxkxkLGWxdHofGiZ4AIhALpMD+sLANfTrPQEk0oKFU260eZLw+d7BdJlopePwqHe",
+ "note": "下拉认字：金矿读成全矿、楠木读不准也选得到；删龙门石窟单独楠木；加黄河混合6颗点位",
+ "date": "2026-10-27T10:04"
 }
