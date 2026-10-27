@@ -1,6 +1,6 @@
 {
- "ver": 5,
- "sig": "MEUCIEdc8LhWShAC4Mjl8ULVPRL4x2WIcGtNKp8eeoXafcxHAiEAz9cMVmFe98U2iqYLpi/IlebIRiaqwnYBfE3OKxZS/dk=",
- "note": "修刷新卡住：第一格指纹改成一次取像素（#4 每轮 19 秒）",
- "date": "2026-10-27T15:48"
+ "ver": 6,
+ "sig": "MEYCIQC77AAoMWemNYJlEatxLyu+o3fHQNPLiKyR8VAj62T1fgIhAIHpTm+qUPAmQwcXtv2fpb45o25fN/n/fcRHdCYGrVET",
+ "note": "看箭头/按钮颜色也改成一次取像素（每个点 8ms）；速度日志分段",
+ "date": "2026-10-27T15:53"
 }
