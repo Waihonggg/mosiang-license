@@ -1,6 +1,6 @@
 {
- "ver": 45,
- "sig": "MEQCIFPm9WqcylnzOZk92h82n1rg1Ozs38g9jvEx54FrEePGAiBl6hm8K01GyZawoi3V/9BzZHPSbBOwl1SZiQxFGfV/xw==",
- "note": "材料列表按游戏地图列表顺序（从兰州开始）；龙门石窟不会点到折两行的龙门石窟入口",
- "date": "2026-10-27T07:01"
+ "ver": 46,
+ "sig": "MEYCIQDxxuQmX/xpA9nTexsrXvBox9WdPUAqx2PXgEZ2K10K1AIhAJ/roW8G1VJuS2iC7HzDIgrnrZTqOe+AvGkL6x7Rere8",
+ "note": "地图列表一次只滑一两行时不会再误判到底（万里长城、敦煌等最下面的图找得到）；材料下拉找不到会往下滑再找",
+ "date": "2026-10-27T09:11"
 }
