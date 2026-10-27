@@ -1,6 +1,6 @@
 {
- "ver": 3,
- "sig": "MEQCIFa7kGGzkHASCZMpcYYudrD3sQBWGnPkyNxIT3VDRYxgAiBtn1PyZ2fVQ29dAGwAKdhUVc8TIg+DP1HoMiOMvX5Xrw==",
- "note": "买下更快更准：按钮颜色判断窗口开好再识别一次；最大数字=总价核对；购买成功提示/金币确认成交；第一格没变不重复识别",
- "date": "2026-10-27T15:37"
+ "ver": 4,
+ "sig": "MEUCIQCkxJXwWbpJYe519pWbFRmDoypInB4GEki1rWoFmEPeCAIgDhz5A48ElkITFLJtsVWBreocSEbXntLQd7fUYOFoNPk=",
+ "note": "看中立刻买：购买/确定键一出现就点，不识别；金币少了多少=成交",
+ "date": "2026-10-27T15:42"
 }
