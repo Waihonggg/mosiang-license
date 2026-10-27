@@ -1,6 +1,6 @@
 {
- "ver": 47,
- "sig": "MEUCIH5aBBpwJOhDvIWtLZYmapVo5sXFTt6rtYdd3xRfi6nyAiEAhPIkJxtqdVX5/J/Sk5ziA1ZVMo4FP8MnI7vDNUUH/jM=",
- "note": "诊断：下拉读不到字时记日志；英文界面材料列表显示英文",
- "date": "2026-10-27T09:42"
+ "ver": 48,
+ "sig": "MEUCIQDkrPJgaEqmQfZUjYIEd3luUjrvW6pZjGkjJG4ZNx7nMgIgd55hDrsPKPFi7h+P7ikfgxwXStTked40mfeIRR/hsH8=",
+ "note": "下拉点开后马上自己收起（选到龙舌兰）：换不同按法直到打开；英文界面材料列表显示英文",
+ "date": "2026-10-27T09:51"
 }
