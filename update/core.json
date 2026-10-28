@@ -1,6 +1,6 @@
 {
- "ver": 55,
- "sig": "MEUCIG+eX5BfVg439zNwywPEJBqdSrXUo1VHSxsxwefUinzeAiEAwXKZqtGamONoCLCzCNe6B2BIIQv04JV/B/CYpr5PHOg=",
- "note": "万里长城金矿：更暗的紫红采集字也认得；记住采集键位置后数紫红像素，读不出字也会点",
- "date": "2026-10-27T14:42"
+ "ver": 56,
+ "sig": "MEUCIQDhxH9HAUiFR3gi7WStxj+wvFq+RcjT/aGl+fPM4ynCKgIgCOIqTYLOr3pmQDGGYCSPiZkoHW7qgeuGWhcYAYOX2iI=",
+ "note": "每天0点自动完全关掉游戏（强行停止）再重开，进游戏后继续采集原来的材料",
+ "date": "2026-10-28T04:59"
 }
