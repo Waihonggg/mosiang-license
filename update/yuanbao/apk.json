@@ -1,7 +1,6 @@
 {
- "build": "v4",
- "shell": 4,
- "ver": "1.0.1",
- "url": "https://github.com/Waihonggg/mosiang-license/releases/download/yuanbao-v1.0.1/mosiang-yuanbao.apk",
- "note": "1.0.1：三种数量（50/100/200 个）各自定价，可以自己改；以后界面更新也不用重装"
+ "build": "v3",
+ "ver": "1.0.0",
+ "url": "https://github.com/Waihonggg/mosiang-license/releases/download/yuanbao-v1.0.0/mosiang-yuanbao.apk",
+ "note": "墨香元宝助手第一版：看中立刻买（立即购买→购买→确定），金币确认成交"
 }
