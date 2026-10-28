@@ -1,6 +1,6 @@
 {
- "ver": 9,
- "sig": "MEUCIE15k/mBphKC2Ucq1HWj7NycSzyh2EHUO86wt7tKEk99AiEA3Pg17TVTcuXGCj57wcfSTT4Wp1lVRTpo2lTGo7HgTyg=",
- "note": "整个 App 也能在线更新（1.0.1 起改界面不用重装）；三种数量各自定价",
- "date": "2026-10-28T13:52"
+ "ver": 10,
+ "sig": "MEYCIQDu9LmAFC7LSv4TOEv9XkCNtOAM+AHu32SrZ7qwSgvL0QIhAJmQG4Ur1kEwMPPrE7fFKwz4PUamoX7MEXlL6vP3fF6k",
+ "note": "回到之前的版本（一个总价上限）；只修 Telegram 数量：买之前先记下第一格的数量",
+ "date": "2026-10-28T15:11"
 }
