@@ -1,6 +1,6 @@
 {
- "ver": 8,
- "sig": "MEUCIBx3vLb7jMUW70VG6RJlLrkyoGtYlS3LjDok8Z7xko5AAiEApCWnDxfnSwNaLJXVUOzng+k/AfvSAuF0XFFH+vft2T4=",
- "note": "按数量定价（50/100/200 个各一档）；数量从列表第一格读，Telegram 显示真实数量；买完只等金币变化，更快回去刷新",
- "date": "2026-10-28T13:42"
+ "ver": 9,
+ "sig": "MEYCIQDsPW3WqbAVeiPpwkf8k/LL/UDTsFSYN8dhK/cGwYna8AIhAPX7KwlEX0RPgVg/jthhwkTEqBV1x2CuVHn/iPm/Qr51",
+ "note": "整个 App 也能在线更新（1.0.1 起改界面不用重装）；三种数量各自定价",
+ "date": "2026-10-28T13:52"
 }
