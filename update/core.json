@@ -1,6 +1,6 @@
 {
- "ver": 59,
- "sig": "MEYCIQCIGQWUi8iSAawhXnTGG9tVqqVgpC399EwiVslTARldfwIhAKWl0KJvae5WjXIArpKTpJICj5mT0oYE8P4Texiz1+ns",
- "note": "嵩山楠木/赤松混合：换成重录的点位",
- "date": "2026-10-29T15:00"
+ "ver": 60,
+ "sig": "MEUCIQDciSHWplQKH3CIgmjPbYQlC1Oz+t0mvvB1zpU2eKHq8wIgcwlePzVuc/QHvrb6hRyMJxWHdLFekX4m/5MaG1VWpD8=",
+ "note": "0点重开：先回桌面再强行停止，确定框按对按钮，确认真的关掉；没关掉会发TG告诉你",
+ "date": "2026-10-29T16:04"
 }
