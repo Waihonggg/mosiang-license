@@ -1,6 +1,6 @@
 {
- "ver": 60,
- "sig": "MEUCIQDciSHWplQKH3CIgmjPbYQlC1Oz+t0mvvB1zpU2eKHq8wIgcwlePzVuc/QHvrb6hRyMJxWHdLFekX4m/5MaG1VWpD8=",
- "note": "0点重开：先回桌面再强行停止，确定框按对按钮，确认真的关掉；没关掉会发TG告诉你",
- "date": "2026-10-29T16:04"
+ "ver": 61,
+ "sig": "MEUCIQCyfDS7gDILcYop+J2G8F4gkMrjxATRtnfDErUDX6B9LwIgQ+6J5GEl1fFIJ+iM4YOyi5vsHH0RjC9hJsZFp168Rgc=",
+ "note": "测试机实测0点重开",
+ "date": "2026-10-29T16:05"
 }
