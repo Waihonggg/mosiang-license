@@ -1,6 +1,6 @@
 {
- "ver": 61,
- "sig": "MEUCIQCyfDS7gDILcYop+J2G8F4gkMrjxATRtnfDErUDX6B9LwIgQ+6J5GEl1fFIJ+iM4YOyi5vsHH0RjC9hJsZFp168Rgc=",
- "note": "测试机实测0点重开",
- "date": "2026-10-29T16:05"
+ "ver": 62,
+ "sig": "MEUCIQD5D6BbQr14T9BHx56iNcPc4bs7B13rUy0VzuDdBHGgPQIgMjSy1hv4Rl2ttd4phy2zUbutoEMrnBiRsW7sHgfpsU0=",
+ "note": "重开后卡在游戏公告：补上登录流程（关公告/点击进入/开始游戏/进入游戏）；任何时候掉回登录画面都会自己进游戏",
+ "date": "2026-10-29T16:13"
 }
