@@ -1,6 +1,6 @@
 {
- "ver": 5,
- "sig": "MEUCIGbIbNm6A8LyOpv0pCDzn60sz71rAjaICf0qYyV/W3P0AiEA2pUsZpGwwwUnZxnu1k8+tRBs4XTM67pWuQ6V5SUbOHs=",
- "note": "脚本不会自己停：点击失败时等一下再试，不再退出",
- "date": "2026-10-31T17:53"
+ "ver": 6,
+ "sig": "MEUCIQD1LjKPobj9QXdt9d2YIgqALrQy6YpPHFsAQ0+HA+VXjwIgGwa6tzocodMxVuZrZXBrkygbm7B89H1KX+sOaAcOg04=",
+ "note": "每 3 分钟确认挂机还开着，关了就重新开",
+ "date": "2026-10-31T18:08"
 }
