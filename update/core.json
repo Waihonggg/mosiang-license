@@ -1,6 +1,6 @@
 {
- "ver": 63,
- "sig": "MEYCIQDfLAh8DqQi2uoEy/M3ZB5zDwroj+yQpOepHByMebBxsgIhALIMFkN3z7XEuDVTuZ1PSiNziZlCbYlmL5Z+phx83Hm0",
- "note": "开头天安楼画面：「点击进入」读不到也直接点它的位置",
- "date": "2026-10-31T07:37"
+ "ver": 64,
+ "sig": "MEQCIGggwEXYMPBrbbmRfJejd/WYCDYpYcGn+lVLj5q4MSdvAiBjnBZOYdcDfyUivhnLwE6yP4nLU0mjJYXZJ6xuQy6n+w==",
+ "note": "天安楼卡住：换几个位置点；点 90 秒没反应就再重开游戏（最多2次）；出错写进日志，TG 附最后几行日志",
+ "date": "2026-10-31T16:30"
 }
