@@ -1,6 +1,6 @@
 {
- "ver": 4,
- "sig": "MEQCIEl6gZ2AJGV8YEtgCgDwqRqLXI2i9MnsdHBOnuaagdqtAiBsIWSYLdy0cujCo2cNHWiY4HD3u8+w1W3OiLTMLyK8VQ==",
- "note": "修复：不再按返回键（会跳出退出游戏提示），出现退出提示时点取消",
- "date": "2026-10-31T09:24"
+ "ver": 5,
+ "sig": "MEUCIGbIbNm6A8LyOpv0pCDzn60sz71rAjaICf0qYyV/W3P0AiEA2pUsZpGwwwUnZxnu1k8+tRBs4XTM67pWuQ6V5SUbOHs=",
+ "note": "脚本不会自己停：点击失败时等一下再试，不再退出",
+ "date": "2026-10-31T17:53"
 }
