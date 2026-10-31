@@ -1,6 +1,6 @@
 {
- "ver": 62,
- "sig": "MEUCIQD5D6BbQr14T9BHx56iNcPc4bs7B13rUy0VzuDdBHGgPQIgMjSy1hv4Rl2ttd4phy2zUbutoEMrnBiRsW7sHgfpsU0=",
- "note": "重开后卡在游戏公告：补上登录流程（关公告/点击进入/开始游戏/进入游戏）；任何时候掉回登录画面都会自己进游戏",
- "date": "2026-10-29T16:13"
+ "ver": 63,
+ "sig": "MEYCIQDfLAh8DqQi2uoEy/M3ZB5zDwroj+yQpOepHByMebBxsgIhALIMFkN3z7XEuDVTuZ1PSiNziZlCbYlmL5Z+phx83Hm0",
+ "note": "开头天安楼画面：「点击进入」读不到也直接点它的位置",
+ "date": "2026-10-31T07:37"
 }
