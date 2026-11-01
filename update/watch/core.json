@@ -1,6 +1,6 @@
 {
- "ver": 6,
- "sig": "MEUCIQD1LjKPobj9QXdt9d2YIgqALrQy6YpPHFsAQ0+HA+VXjwIgGwa6tzocodMxVuZrZXBrkygbm7B89H1KX+sOaAcOg04=",
- "note": "每 3 分钟确认挂机还开着，关了就重新开",
- "date": "2026-10-31T18:08"
+ "ver": 7,
+ "sig": "MEUCIQD/eab54Her6bLPPFXMMjhvMUN1TZkFaKmQpr/FlpWyawIgWs6ioeksPCbkbLDhkTvIykbLPSmF1R+nox32o7DCqM4=",
+ "note": "修复：游戏没有响应窗口点不掉；第二次就关闭游戏再重开",
+ "date": "2026-11-01T02:42"
 }
