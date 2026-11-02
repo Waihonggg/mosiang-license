@@ -1,6 +1,6 @@
 {
- "ver": 7,
- "sig": "MEUCIQD/eab54Her6bLPPFXMMjhvMUN1TZkFaKmQpr/FlpWyawIgWs6ioeksPCbkbLDhkTvIykbLPSmF1R+nox32o7DCqM4=",
- "note": "修复：游戏没有响应窗口点不掉；第二次就关闭游戏再重开",
- "date": "2026-11-01T02:42"
+ "ver": 8,
+ "sig": "MEQCICPNmVtXHl+XryxgA1IqZsL2BFzty19lG4T6ZDc8ogKoAiA9k+jXi3L4t4z795E//qDpzga/+DyW6cLQJfu+sji/Dw==",
+ "note": "简化：挂机只在重新登入后按；平常不碰弹窗；左上角显示运行小字",
+ "date": "2026-11-02T14:14"
 }
