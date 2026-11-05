@@ -1,6 +1,6 @@
 {
- "ver": 10,
- "sig": "MEYCIQDu9LmAFC7LSv4TOEv9XkCNtOAM+AHu32SrZ7qwSgvL0QIhAJmQG4Ur1kEwMPPrE7fFKwz4PUamoX7MEXlL6vP3fF6k",
- "note": "回到之前的版本（一个总价上限）；只修 Telegram 数量：买之前先记下第一格的数量",
- "date": "2026-10-28T15:11"
+ "ver": 11,
+ "sig": "MEUCIGurit2HS8svQV8IDS/9CW95wiTMUHcGkz9uugC7n+aRAiEAiro+7aKM8iYlzrfYm8AJQUVUEZKLntKA0fkVXrr6dS4=",
+ "note": "识别更稳：刷新后列表还没切回最低价就再读（不白刷新）；第一格读取范围放宽，第一个数字不再被切到",
+ "date": "2026-11-05T14:28"
 }
