@@ -1,6 +1,6 @@
 {
- "ver": 11,
- "sig": "MEUCIGurit2HS8svQV8IDS/9CW95wiTMUHcGkz9uugC7n+aRAiEAiro+7aKM8iYlzrfYm8AJQUVUEZKLntKA0fkVXrr6dS4=",
- "note": "识别更稳：刷新后列表还没切回最低价就再读（不白刷新）；第一格读取范围放宽，第一个数字不再被切到",
- "date": "2026-11-05T14:28"
+ "ver": 12,
+ "sig": "MEUCIAxiVJKmdU/uvMBVIV93+hycooPrB6um0FpfjCgDj60EAiEAqrKtziMNT6hQ/A480I8IifjQntByJ3yzV3W68wRgdwY=",
+ "note": "刷新后盯着第一格直到新的最低价列表出来（以前刷新太快，常读到旧列表或晚到的最高价列表，便宜单要刷新几次才看到）",
+ "date": "2026-11-05T15:35"
 }
