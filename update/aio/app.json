@@ -1,6 +1,6 @@
 {
- "ver": 4,
- "sig": "MEUCIEFLbfIqeVnKeWSc788DBsun8MteOV6wor3KVdFcGS8/AiEApNzyadLXN8cISkhjBLoc9wHNLw61GbD7ZilLtXILUZM=",
- "note": "首页加「运行记录」；修：停掉后20～60秒内按开始不跑",
- "date": "2026-11-25T01:48"
+ "ver": 5,
+ "sig": "MEUCIQDYfG9+MNIoQzhiUYaJWEl8FJHhdfCWjd7dBNmTyBT0tQIgbq83VwfT7lFOjSMk3BDWNIFWprwSoNp9JVDt3eLcOpE=",
+ "note": "修：功能变大后 App 里按开始不跑（运行器载入当掉）；运行记录加步骤",
+ "date": "2026-11-25T01:53"
 }
