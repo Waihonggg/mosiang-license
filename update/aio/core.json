@@ -1,6 +1,6 @@
 {
- "ver": 18,
- "sig": "MEUCIQCLpojrlxGxkg3BHhP4MqgX6iAEiziKjMdx/EqvWCCACwIgbjH9HAKQbRLYQeZ1XJBLAKQ9Ir5Nh+bJr7WUXttGKbI=",
- "note": "地图列表每拉一下量动了几行，动太少自己换拉法（往上、往下分开记住）；回兰州也照列表顺序",
- "date": "2026-11-25T10:07"
+ "ver": 19,
+ "sig": "MEUCIBoJnJGK7c5phswn2xbjDJ4U/brKT69QseqD7wm1yBgYAiEAxGFN6JIZ6H4zLcjXHmu6qAM9G48cgo4uB6Gf8fmXILs=",
+ "note": "地图名放大 3 倍再认（兰州认得出、龙门石窟入口不会多认字）；地图比对改成选最像的那张（郑州不会当兰州）；全部记录小字显示",
+ "date": "2026-11-25T10:19"
 }
