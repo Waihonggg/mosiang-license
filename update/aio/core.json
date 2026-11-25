@@ -1,6 +1,6 @@
 {
- "ver": 13,
- "sig": "MEUCIFzfCfVmh068+qGSnNvhjtg1xhxPiL/3KR6ADWpX54eVAiEAm4PKsDpW8U0sU98kHAUR90MLrkn4ub4RFtnJTQEyfSQ=",
- "note": "Boss 列表拖完等停稳再读（最后一行红莲旱魃）；开始时读不到地图名就先回挂机点",
- "date": "2026-11-25T08:28"
+ "ver": 14,
+ "sig": "MEUCIQCcK9JBcaS3vfsa/4Wyah0Alz0GdmwyRtuPvNbZFCd6AAIgXo/VibhjzzfocuyO6e2jKCxO/iN4xIH3XTfJ9X+2e54=",
+ "note": "地图列表往上拉从列表里面开始按（原来按在被切一半的最后一行拉不动）；地图名读不到会再读；暂停提示不再写万里长城",
+ "date": "2026-11-25T08:39"
 }
