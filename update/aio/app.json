@@ -1,6 +1,6 @@
 {
- "ver": 9,
- "sig": "MEQCIC+PmMF7sSixDRXWjFREEvFWsKtpJvD4WeG76h4UiW3GAiALrcfvUnFRVJOMbR33KtMEkxqIH1+oCyv8dKT5UxiP1Q==",
- "note": "修：没有 root 时点不到（改用无障碍点击/滑动）；运行器自己叫起悬浮球；连点技能不再占满 CPU",
- "date": "2026-11-25T07:00"
+ "ver": 10,
+ "sig": "MEYCIQCTl77tBqNBAtJboB/bMyahPFrqcDykRI89p7lRvSbbEwIhAKWv2b9wBMM4tFWLs8Txsnh4eNtE1vWxVSx9BU7z6oRS",
+ "note": "开始时先看人物在哪张地图，不在挂机点先回去；状态显示挂机点名字和复活时间；悬浮球横屏贴边；截图裁切出错修好；App 自己下载新版",
+ "date": "2026-11-25T07:21"
 }
