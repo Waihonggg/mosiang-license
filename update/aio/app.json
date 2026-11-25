@@ -1,6 +1,6 @@
 {
- "ver": 5,
- "sig": "MEUCIQDYfG9+MNIoQzhiUYaJWEl8FJHhdfCWjd7dBNmTyBT0tQIgbq83VwfT7lFOjSMk3BDWNIFWprwSoNp9JVDt3eLcOpE=",
- "note": "修：功能变大后 App 里按开始不跑（运行器载入当掉）；运行记录加步骤",
- "date": "2026-11-25T01:53"
+ "ver": 6,
+ "sig": "MEUCIQD88PTwLI3nHZ7G8+QdOsYlnlhMT6ZGRUAuTk72mRrUFgIgWUZiVD7OTkMfyRBXkNuhsUuAjUsRlSsH63JiAeodzPw=",
+ "note": "修：打王开始时重复要截图权限导致停止；悬浮球当看门狗",
+ "date": "2026-11-25T01:57"
 }
