@@ -1,6 +1,6 @@
 {
- "ver": 3,
- "sig": "MEUCICHYXmuycsXCh0J4dQmvNv2eOFdSv942LZ5jmd4Vp1zSAiEAwnO5U2BFus7qZmW7FB1YCO66cv0tTVCV9QvAWnwYdnI=",
- "note": "开始会自己打开游戏；悬浮球（开始/暂停/停止/换模式）；建号/升级模式；看门狗修正",
- "date": "2026-11-25T01:22"
+ "ver": 4,
+ "sig": "MEYCIQCJkN9wGISxpILzwtdpCnBiZyu7PiblSzLrKuZdYQUhrQIhAJPKmnjTe6aqd+niPqyo8lYxnnios/VAgysdd5edcq1j",
+ "note": "首页加「运行记录」；修：停掉后20～60秒内按开始不跑",
+ "date": "2026-11-25T01:48"
 }
