@@ -1,6 +1,6 @@
 {
- "ver": 16,
- "sig": "MEUCIB2VQa32NI9R3cVhaL56ZFgOK7soXz99vgT9u2V6cIynAiEA++GMKWQ5TTUBZB6xGVftB2b/L7Z6O4PBSeGqpsOmmjk=",
- "note": "打王技能改成 4 个可以自己勾（轮流按），另选一个抢尾刀技能",
- "date": "2026-11-25T09:02"
+ "ver": 17,
+ "sig": "MEQCICizhdga08aQZEmjNJTmkw0U60GkYVNYbg6k3cJsfvvhAiABIqyu81JKwJq6DI/TuvvQQz1BwjCUmEVqhz375wrsuQ==",
+ "note": "回挂机点找地图：照列表顺序一开始就往对的方向拉、离得远连拉几下；所有面板都会自己关；完整运行记录（App 查看全部记录）",
+ "date": "2026-11-25T09:52"
 }
