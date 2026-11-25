@@ -1,6 +1,6 @@
 {
- "ver": 23,
- "sig": "MEQCIDkgOgtviZvdmCOnll9JHlxoWbjOKVeSv78xSry4lEWVAiBmkP7vqN0kxiTRrPn8DaeRWu706zYZcas5rZHR2ZpbRg==",
- "note": "小圆点在左边展开 5 秒没按就自己收起（不挡 Boss 列表）",
- "date": "2026-11-25T12:30"
+ "ver": 24,
+ "sig": "MEUCIDJArzYttmJC3fzYHj+fs/FK3ea/8drThjQAvcRRaBhNAiEA16po+YmM6NzdqJRIYtj9jNEq5lHKx0ilFt5VAyneup0=",
+ "note": "看到人物在跟随队长就自己关掉跟随（组队栏「跟随」/推摇杆），出发打王、回挂机点前都会检查",
+ "date": "2026-11-25T13:52"
 }
