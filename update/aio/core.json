@@ -1,6 +1,6 @@
 {
- "ver": 8,
- "sig": "MEUCIFImUbKFFGwvcJledhG56LNzPe0zXF6ru9USXaWzdw1zAiEAlgqEM4X4hqB1/GYL8U976tOQwGawAlN0jcVosZaSRvg=",
- "note": "修：App 里文字识别让运行器掉（改用 MLKit、先试后用）；新悬浮球；降低游戏卡顿",
- "date": "2026-11-25T06:50"
+ "ver": 9,
+ "sig": "MEUCIBzrOe9zfi4qwB18CZ1cjQpJYKQ83csp4PtfQ6FZzbwGAiEAusXxZmoxpmsEqdJuDxCh6WUZ6SIOrcWJdTLAoRqWHi0=",
+ "note": "修：没有 root 时点不到（改用无障碍点击/滑动）；运行器自己叫起悬浮球；连点技能不再占满 CPU",
+ "date": "2026-11-25T07:00"
 }
