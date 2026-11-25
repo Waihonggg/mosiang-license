@@ -1,6 +1,6 @@
 {
- "ver": 20,
- "sig": "MEQCIFqXbtKIJClSTYNfp1UOYyC7sxNkQ5MRApQGfTKMjIyPAiBuNvzDcsN2auwMQ4GTEXAuImhetNL3PeXMn2hQVZzY1Q==",
- "note": "捡宝改成有新东西就继续捡（最少/最多/几秒没新的就走，可调）；地图列表往下拉换起点、停稳再点",
- "date": "2026-11-25T11:08"
+ "ver": 21,
+ "sig": "MEUCIQCV0XQBn6OnQOjsbTbvJZwQvtUcC3XxTOSa+fIymIRwEwIgJVDqn2EIkEmXwjguK1Y5pudpl3NHMZn1lty5CF88VEM=",
+ "note": "状态条改成可以拖、可以收起的小圆点（只会停在不挡脚本的安全区）",
+ "date": "2026-11-25T11:41"
 }
