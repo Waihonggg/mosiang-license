@@ -1,6 +1,6 @@
 {
- "ver": 21,
- "sig": "MEUCIQDwVGddFY3lrlYfrwi4e9OEr4Drg+mM2vSxOo09gFMPKAIgGpmI7bnHJzgjCdJYMUjUnomlL6v/Gg85HRZ+sbCpJPA=",
- "note": "状态条改成可以拖、可以收起的小圆点（只会停在不挡脚本的安全区）",
- "date": "2026-11-25T11:41"
+ "ver": 22,
+ "sig": "MEUCIBT1GYhvlC2gmL+hpEDn4G+TP0lgLeqPBenZcJedCfB6AiEAoqXWzGlCGUBrOpbIPVw41d1voX0uMpu1UPI619XKdxE=",
+ "note": "暂停后继续：先看 Boss 列表，附近有活着或快复活的王就直接去打，没有才回挂机点",
+ "date": "2026-11-25T11:59"
 }
