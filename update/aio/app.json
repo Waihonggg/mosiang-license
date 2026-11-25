@@ -1,6 +1,6 @@
 {
- "ver": 10,
- "sig": "MEYCIQCTl77tBqNBAtJboB/bMyahPFrqcDykRI89p7lRvSbbEwIhAKWv2b9wBMM4tFWLs8Txsnh4eNtE1vWxVSx9BU7z6oRS",
- "note": "开始时先看人物在哪张地图，不在挂机点先回去；状态显示挂机点名字和复活时间；悬浮球横屏贴边；截图裁切出错修好；App 自己下载新版",
- "date": "2026-11-25T07:21"
+ "ver": 11,
+ "sig": "MEQCICuBFkneNOPxIuhS41zWjiWPbxwRT4TDxATMcteBRcBUAiAQtobwUmpnb5tyzsc36We2Sr9Vd4LfJ2lgpnmAvYCmbw==",
+ "note": "录挂机点：认得折成两行的长地图名（秦始皇陵密室），录的时候先停自动战斗，失败会说是哪一步",
+ "date": "2026-11-25T07:31"
 }
