@@ -1,6 +1,6 @@
 {
- "ver": 19,
- "sig": "MEUCIBoJnJGK7c5phswn2xbjDJ4U/brKT69QseqD7wm1yBgYAiEAxGFN6JIZ6H4zLcjXHmu6qAM9G48cgo4uB6Gf8fmXILs=",
- "note": "地图名放大 3 倍再认（兰州认得出、龙门石窟入口不会多认字）；地图比对改成选最像的那张（郑州不会当兰州）；全部记录小字显示",
- "date": "2026-11-25T10:19"
+ "ver": 20,
+ "sig": "MEUCIQDRV0+IuqHhCCqM/Sw79qscK8/+dFLR4UwmCUPKhECO0gIgQI5Jyno9r633u2IFS7L4K6xliaf6qlgIe1CKiehUEIU=",
+ "note": "捡宝改成有新东西就继续捡（最少/最多/几秒没新的就走，可调）；地图列表往下拉换起点、停稳再点",
+ "date": "2026-11-25T11:08"
 }
