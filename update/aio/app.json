@@ -1,6 +1,6 @@
 {
- "ver": 11,
- "sig": "MEQCICuBFkneNOPxIuhS41zWjiWPbxwRT4TDxATMcteBRcBUAiAQtobwUmpnb5tyzsc36We2Sr9Vd4LfJ2lgpnmAvYCmbw==",
- "note": "录挂机点：认得折成两行的长地图名（秦始皇陵密室），录的时候先停自动战斗，失败会说是哪一步",
- "date": "2026-11-25T07:31"
+ "ver": 12,
+ "sig": "MEUCIDHZAUB1lbxS4NP9NE3oAsHEu7ikU/m9bBTHY2CYJxtdAiEAhxe6dAI7Ic5/6GDi25AZH0IHSBK8NLp5tmlrDfmxgX0=",
+ "note": "没 root 拖列表改成按住拖（Boss 列表、地图列表），拖不动会自己换拖法",
+ "date": "2026-11-25T08:23"
 }
