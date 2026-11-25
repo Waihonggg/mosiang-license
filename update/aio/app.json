@@ -1,6 +1,6 @@
 {
- "ver": 22,
- "sig": "MEUCIQCGGcF0PE0nnZENPjQNLCOJ370rb/w1J1IK83ILgr5jvQIgIYzLuV0m9nQr1D743aDQLoLcTw4Q81H+czt+2G3H4ns=",
- "note": "暂停后继续：先看 Boss 列表，附近有活着或快复活的王就直接去打，没有才回挂机点",
- "date": "2026-11-25T11:59"
+ "ver": 23,
+ "sig": "MEUCIQDE3u6rKeP2JQ/H6uy0Is2W97RnR+oAzV/vkYTelZRZCQIgZK5DpTYaZsvTtLiZB7Hcchf7skCXtgq6WArhNdGYSJ8=",
+ "note": "小圆点在左边展开 5 秒没按就自己收起（不挡 Boss 列表）",
+ "date": "2026-11-25T12:30"
 }
