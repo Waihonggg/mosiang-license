@@ -1,6 +1,6 @@
 {
- "ver": 25,
- "sig": "MEUCIH6gLKeqIhZj/bLS9SI55rold0A5EG59Mmk0XKQqMI90AiEAwC63ZI0FdyLVtPL42owQt24r5hQ95dIlcuGdrVNmAzU=",
- "note": "技能阶段：一开始按哪些技能、王剩 X% 以下换按哪些（最多再加 4 段，可以重复，只往下换）",
- "date": "2026-11-25T15:49"
+ "ver": 26,
+ "sig": "MEQCIGi3qV//1LTiMfkmFQ6p3z4NcpcKPf0g8kxBL3b0lXTfAiAsqObreQTnjrLKoAtqoUWVKG5PgZcYh1K5ysPteWX8PQ==",
+ "note": "技能阶段：后面几段只填要加的技能，自动跟一开始的技能一起轮流按（1、4 不会断）",
+ "date": "2026-11-25T16:37"
 }
