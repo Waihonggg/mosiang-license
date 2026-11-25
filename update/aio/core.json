@@ -1,6 +1,6 @@
 {
- "ver": 12,
- "sig": "MEYCIQD5RZgqAuyDHOmdfVM3DBy+sEWBBuXWSvMuidlfe52C6QIhAPyvDTQ9aUike8dZysKIXZF7FzbhJKoAotlt1hwg4l8X",
- "note": "没 root 拖列表改成按住拖（Boss 列表、地图列表），拖不动会自己换拖法",
- "date": "2026-11-25T08:23"
+ "ver": 13,
+ "sig": "MEUCIFzfCfVmh068+qGSnNvhjtg1xhxPiL/3KR6ADWpX54eVAiEAm4PKsDpW8U0sU98kHAUR90MLrkn4ub4RFtnJTQEyfSQ=",
+ "note": "Boss 列表拖完等停稳再读（最后一行红莲旱魃）；开始时读不到地图名就先回挂机点",
+ "date": "2026-11-25T08:28"
 }
