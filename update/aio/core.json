@@ -1,6 +1,6 @@
 {
- "ver": 24,
- "sig": "MEUCIDJArzYttmJC3fzYHj+fs/FK3ea/8drThjQAvcRRaBhNAiEA16po+YmM6NzdqJRIYtj9jNEq5lHKx0ilFt5VAyneup0=",
- "note": "看到人物在跟随队长就自己关掉跟随（组队栏「跟随」/推摇杆），出发打王、回挂机点前都会检查",
- "date": "2026-11-25T13:52"
+ "ver": 25,
+ "sig": "MEUCIQCY5/5L3htTQsA4094HMMYFXFnV/ivr9xbtz+jfTubEQgIgBblRROz6CWXivUp7h+nGw2h0NgxiJs8yCX6+oFe71+8=",
+ "note": "技能阶段：一开始按哪些技能、王剩 X% 以下换按哪些（最多再加 4 段，可以重复，只往下换）",
+ "date": "2026-11-25T15:49"
 }
