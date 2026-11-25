@@ -1,6 +1,6 @@
 {
- "ver": 17,
- "sig": "MEYCIQCPv1+wXxQ9u3fftdrOwCYyrm3Ll5WMJB+Q+6kQL87ygQIhALx2wXLVRzPvSSgXDIJoiAJcRPZ+wPnXtNlxVzeqTX20",
- "note": "回挂机点找地图：照列表顺序一开始就往对的方向拉、离得远连拉几下；所有面板都会自己关；完整运行记录（App 查看全部记录）",
- "date": "2026-11-25T09:52"
+ "ver": 18,
+ "sig": "MEQCIB/nKiH9r0yO+KHnD/Ln/o75rcJwe+ynV1UIH8V3p4UrAiAZCyjtey+wPTSajvF2zhTMDK7yxjAmPzU1YGrIiOFHOA==",
+ "note": "地图列表每拉一下量动了几行，动太少自己换拉法（往上、往下分开记住）；回兰州也照列表顺序",
+ "date": "2026-11-25T10:07"
 }
