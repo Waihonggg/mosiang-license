@@ -1,6 +1,6 @@
 {
- "ver": 15,
- "sig": "MEUCIQCsY8JG/M4XSgFsBk2xbJhiUOXp6LABslOB1NunpWmbIwIgT+L3/mbTRlHuBbBRIiuJedPrKCI7TC5ARa0KoSp2Wag=",
- "note": "浮窗移到下面中间偏右，不再挡住王的血量；悬浮球横屏只贴左边；开始时先看在不在挂机点再开挂机；开着面板也能开始",
- "date": "2026-11-25T08:56"
+ "ver": 16,
+ "sig": "MEQCIB1Y8GmKdKie8jp+vnBVckbYzy1X3RNoW4JKvqManZGQAiBmHqEwTpmfYSEpLTvVQMc5K2vk8bFp6crL+yEgUEhDSQ==",
+ "note": "打王技能改成 4 个可以自己勾（轮流按），另选一个抢尾刀技能",
+ "date": "2026-11-25T09:02"
 }
