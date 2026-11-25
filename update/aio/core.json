@@ -1,6 +1,6 @@
 {
- "ver": 7,
- "sig": "MEYCIQChCxeU1x07X/9KV7BteoguvKSDvYfZHx1uct1gaotF0AIhAPX5FNSgTQ27jfpLsTgIjlDNVFzd4yXwxsAj6phk9hm6",
- "note": "修：App 里文字识别卡住（先用 Rapid）；运行记录最新在上",
- "date": "2026-11-25T02:04"
+ "ver": 8,
+ "sig": "MEUCIFImUbKFFGwvcJledhG56LNzPe0zXF6ru9USXaWzdw1zAiEAlgqEM4X4hqB1/GYL8U976tOQwGawAlN0jcVosZaSRvg=",
+ "note": "修：App 里文字识别让运行器掉（改用 MLKit、先试后用）；新悬浮球；降低游戏卡顿",
+ "date": "2026-11-25T06:50"
 }
