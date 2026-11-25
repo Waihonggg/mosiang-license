@@ -1,6 +1,6 @@
 {
- "ver": 6,
- "sig": "MEUCIDgj34snmR3n0Nt/dvPGI3k9WwccWEqt+qxkBtNq8CLpAiEAwEQnmmPAcvT0U62lBk4ncUGebYjQFB1I0VzhjnDgJQE=",
- "note": "修：打王开始时重复要截图权限导致停止；悬浮球当看门狗",
- "date": "2026-11-25T01:57"
+ "ver": 7,
+ "sig": "MEYCIQChCxeU1x07X/9KV7BteoguvKSDvYfZHx1uct1gaotF0AIhAPX5FNSgTQ27jfpLsTgIjlDNVFzd4yXwxsAj6phk9hm6",
+ "note": "修：App 里文字识别卡住（先用 Rapid）；运行记录最新在上",
+ "date": "2026-11-25T02:04"
 }
