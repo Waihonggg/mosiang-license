@@ -1,6 +1,6 @@
 {
- "ver": 33,
- "sig": "MEUCIDf43RixxCuDvmlpHFYdCI0xKspmmg9kDpLQ3w2v4FPNAiEAkDY5lA7YlfRRWopDgdJK1DIF90a+dZ9tJINWixr+VYA=",
- "note": "清包：背包中间有空格不再当成到底（挂机捡东西会留空格），继续往后翻",
- "date": "2026-11-26T16:06"
+ "ver": 34,
+ "sig": "MEUCIASIN4qjIarGdRkxStM/KEjeSExmsF2VkoIKYBwnXJglAiEAp4EFGW5uyTzinOKfUlKDRKgFC5WYD1h73SvnPR7/qjc=",
+ "note": "清包：看页点知道第几页、没翻过去再划一次、每页记录；只卖类型正好是宠物技能书（残卷/碎片/礼包/宝箱这些一律不卖）",
+ "date": "2026-11-26T16:15"
 }
