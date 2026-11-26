@@ -1,6 +1,6 @@
 {
- "ver": 28,
- "sig": "MEUCIQCYCfGsDfsgD6JR0QoophR+UFay9RWTojztt9lh5Nfo/gIgbElSAenNBMQxvviYJdsinXrgw7R3i5ZM5QiHF1/3GYU=",
- "note": "打王时不再误开足迹（技能栏/菜单认准了才切）；清包只看材料、消耗品，关好物品框才点下一格；左边小圆点会自己收起",
- "date": "2026-11-26T14:17"
+ "ver": 29,
+ "sig": "MEQCIAw4o1gj24rdnQ7sqXOMOkbyzVfboEzqQyaIL1MSMByzAiBMg8JPstwRdX9fjstuW+piR4419SytcQgz7xYH9OkLKg==",
+ "note": "清包：按类型「宠物技能书」卖（名字不同也卖），翻「全部」认图片跳过装备/材料/消耗品；捡宝走远去打小怪就不等",
+ "date": "2026-11-26T15:24"
 }
