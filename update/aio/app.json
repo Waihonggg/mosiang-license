@@ -1,6 +1,6 @@
 {
- "ver": 29,
- "sig": "MEQCIF2ULoqVwmaGybdN6n0Q6VgXPdGnXJuEa3olLYmWbJT+AiAq68UyUWFkmcqELD+pBLN284mwGvLvUau8BwxmWowS7w==",
- "note": "清包：按类型「宠物技能书」卖（名字不同也卖），翻「全部」认图片跳过装备/材料/消耗品；捡宝走远去打小怪就不等",
- "date": "2026-11-26T15:24"
+ "ver": 30,
+ "sig": "MEYCIQDzjINBEm7t6W/zIbLvcjslh0JY8WkqDncl/dh4QnvEjgIhAOyqYB7HKu84mW5NTOgcqNVz8mm97HwoQDO6kKA1Ybu4",
+ "note": "清包：背包改用往左划翻页（页点在这个号没反应）、认图片只比图标位置；传书收件人读字更宽松",
+ "date": "2026-11-26T15:36"
 }
