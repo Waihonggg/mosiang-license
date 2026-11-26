@@ -1,6 +1,6 @@
 {
- "ver": 30,
- "sig": "MEYCIQCd6reMP38DpXDn+LhVvFSn3DkRt2eWEevoKqjGD7xkjgIhAKZpTqJbvKoVWZ/W8dSA0WRHw3HLrwOP7SBMItGvfEMY",
- "note": "清包：背包改用往左划翻页（页点在这个号没反应）、认图片只比图标位置；传书收件人读字更宽松",
- "date": "2026-11-26T15:36"
+ "ver": 31,
+ "sig": "MEYCIQClbCWEsjFnJx3eBRHsj2FBJWRdZ9Qc+/FGrNjmUErgNQIhAJ8gwocGVpU0MKoeyAD8lkoHzeJeFqcjftH9vaj82AM5",
+ "note": "清包：宠物书那一段看完就停（整理过会排在一起）；类型读字更宽松（习武没卖到）；看过不卖的东西记住图标，下次不再点",
+ "date": "2026-11-26T15:48"
 }
