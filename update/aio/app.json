@@ -1,6 +1,6 @@
 {
- "ver": 32,
- "sig": "MEYCIQCX0GeLoAC31TXUehB6dp5O5UBNVkDZRBuukVS4sQXxRQIhALHR4VK3PE58LWrw6hQh6fbQI8RnN/9vP0X6YF/koAh5",
- "note": "清包：整理背包 / 传书时挂机不关（继续打）；只有类型里有「宠物」才算宠物书那一段（残卷不再让它提早停）",
- "date": "2026-11-26T15:58"
+ "ver": 33,
+ "sig": "MEYCIQDzQbHGzVlH/UzGED9zm//I4m9xUhUSpADFbS9hpkX0pQIhAKpGHvuBSPi3XXr9UjUxZ/TEn4EhfR7+P6opQotyvbU2",
+ "note": "清包：背包中间有空格不再当成到底（挂机捡东西会留空格），继续往后翻",
+ "date": "2026-11-26T16:06"
 }
