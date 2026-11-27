@@ -1,6 +1,6 @@
 {
- "ver": 38,
- "sig": "MEUCIQCtx9YDZhl4oBYtszHlodtczEdCcPudgeNB5xETn17IqQIgT/0/XD8e+ZftkCQ6ypy9dh8De3TjysazYbKxVkOZAM0=",
- "note": "App 开在前面（竖屏）时脚本先停手、不乱点（连点技能也停），切回游戏就继续；离开超过 20 秒回来会从头看一次列表",
- "date": "2026-11-27T17:29"
+ "ver": 39,
+ "sig": "MEUCIGxy4xjm2t2ghlc6UHiqMCcam/JNbfEwWtGEZrkv29y5AiEA5b+yDJk4OAx1V2ksQmKTuZzc3JWcawFLM25fkEC5BM8=",
+ "note": "App 开在前面时停手：改用三种方法看横竖屏（旋转/系统设定/截图），任何一种认出就停；记录里写出各方法读到的值",
+ "date": "2026-11-27T17:43"
 }
