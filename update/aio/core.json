@@ -1,6 +1,6 @@
 {
- "ver": 36,
- "sig": "MEUCIE4cT9yAIrmk5WleqzcLK2uxoxNran2Qt/Uq8y0nQJMRAiEAyMu/6qIgjYkCUdY0a1QfGga3Tn44gij8mR/KbhV26i4=",
- "note": "血量读错修好：「18.1 1%」不再读成 1%，不合理的血量放大再读才换技能/判死；Boss 列表活着读到 0% 会放大复查（撕裂鬼王没去的原因）；每只王自己填",
- "date": "2026-11-27T16:11"
+ "ver": 37,
+ "sig": "MEYCIQDDqymYJ6kjRizquUvnT/rrWBaoVM6JFSid9G11kkCHNwIhAK0kzIRAc73bo5SjtFnWo95qW8tKpnrWcNtH8iKY6wCq",
+ "note": "跟随队长：按组队栏旁边的「取消」关掉跟随（以前找「跟随」按不到，一直被队长拉着跑），绝不按「跟随」；含 #36 血量读错修复",
+ "date": "2026-11-27T16:21"
 }
