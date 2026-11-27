@@ -1,6 +1,6 @@
 {
- "ver": 37,
- "sig": "MEYCIQDDqymYJ6kjRizquUvnT/rrWBaoVM6JFSid9G11kkCHNwIhAK0kzIRAc73bo5SjtFnWo95qW8tKpnrWcNtH8iKY6wCq",
- "note": "跟随队长：按组队栏旁边的「取消」关掉跟随（以前找「跟随」按不到，一直被队长拉着跑），绝不按「跟随」；含 #36 血量读错修复",
- "date": "2026-11-27T16:21"
+ "ver": 38,
+ "sig": "MEUCIQCtx9YDZhl4oBYtszHlodtczEdCcPudgeNB5xETn17IqQIgT/0/XD8e+ZftkCQ6ypy9dh8De3TjysazYbKxVkOZAM0=",
+ "note": "App 开在前面（竖屏）时脚本先停手、不乱点（连点技能也停），切回游戏就继续；离开超过 20 秒回来会从头看一次列表",
+ "date": "2026-11-27T17:29"
 }
