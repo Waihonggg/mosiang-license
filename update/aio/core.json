@@ -1,6 +1,6 @@
 {
- "ver": 35,
- "sig": "MEQCIFljHf0EzCUnfvmMxsYzr3pckRyfT73kfLpK8Y71VYp/AiAgoEoMM4K1wl/dbll/dG+HBixu70nXJHC3woflaRHL+Q==",
- "note": "清包：卖之前再读最多 3 次（挂机开着字会被盖住），类型一定要是宠物技能书、名字差不多一样才卖",
- "date": "2026-11-26T16:22"
+ "ver": 36,
+ "sig": "MEUCIE4cT9yAIrmk5WleqzcLK2uxoxNran2Qt/Uq8y0nQJMRAiEAyMu/6qIgjYkCUdY0a1QfGga3Tn44gij8mR/KbhV26i4=",
+ "note": "血量读错修好：「18.1 1%」不再读成 1%，不合理的血量放大再读才换技能/判死；Boss 列表活着读到 0% 会放大复查（撕裂鬼王没去的原因）；每只王自己填",
+ "date": "2026-11-27T16:11"
 }
