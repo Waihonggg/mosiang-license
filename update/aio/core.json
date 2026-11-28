@@ -1,6 +1,6 @@
 {
- "ver": 39,
- "sig": "MEUCIGxy4xjm2t2ghlc6UHiqMCcam/JNbfEwWtGEZrkv29y5AiEA5b+yDJk4OAx1V2ksQmKTuZzc3JWcawFLM25fkEC5BM8=",
- "note": "App 开在前面时停手：改用三种方法看横竖屏（旋转/系统设定/截图），任何一种认出就停；记录里写出各方法读到的值",
- "date": "2026-11-27T17:43"
+ "ver": 40,
+ "sig": "MEUCIEhXHx43FUFpVKb7+pONddvsCPii3zEIpi81sShLIUnLAiEAnihCix1GQwFlahoLOMGEDWPFZxynbhCwYJ8BzhJ+K04=",
+ "note": "App 开在前面时停手：有 root 就直接问系统最前面是哪个 App（无障碍不会回报我们自己的 App，以前一直以为在桌面）",
+ "date": "2026-11-28T02:13"
 }
