@@ -1,6 +1,6 @@
 {
- "ver": 41,
- "sig": "MEUCIQD4UeHVRZlU2gBFOFgYp7ZyWIxuWb/0fVFlQGUwnmRjawIgK1RuNPnIAMPk8eGiG/A3l2mjOuLkT7WwFxSQlaKb7Kc=",
- "note": "自动复活守护：有 root 的手机开一个独立守护，运行器没按停止就断了（App 被划掉 / 被系统关掉）会自己重开 App 接着跑；要停请按「停止」",
- "date": "2026-11-28T02:44"
+ "ver": 42,
+ "sig": "MEQCIBUf5XXX0W3NzgSFHdnIxtL66W3MOQ/iNTnBYItNAm8/AiAlTjPFMJztmkJF+dSVo285WoY/pi/fMszyAsqHwEUJuQ==",
+ "note": "自动接着跑不会打断暂停：断的时候是暂停着的（玩家自己在操作），重开 App 不自动跑",
+ "date": "2026-11-28T03:07"
 }
